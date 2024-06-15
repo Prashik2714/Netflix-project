@@ -1,0 +1,7 @@
+name: proNetFlix
+runtime: nodejs
+description: Netflix DevOps project replication and handson
+config:
+  pulumi:tags:
+    value:
+      pulumi:template: typescript

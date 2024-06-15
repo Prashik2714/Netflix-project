@@ -1,0 +1,6 @@
+encryptionsalt: v1:k8yRjhhoMUo=:v1:mmW6AJVngQpSLkUB:rpMfyBDR803xfIo1896X/WoV1cgB7g==
+config:
+  aws:region: us-east-1
+  proNetFlix:keypair: sbxtst
+  proNetFlix:subnetid: subnet-0f7cfbcf2168d9206
+  proNetFlix:vpcid: vpc-03cf76ab3ddfb512c

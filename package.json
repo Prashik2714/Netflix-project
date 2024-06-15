@@ -1,0 +1,12 @@
+{
+    "name": "proNetFlix",
+    "main": "index.ts",
+    "devDependencies": {
+        "@types/node": "^18",
+        "typescript": "^5.0.0"
+    },
+    "dependencies": {
+        "@pulumi/aws": "^6.39.0",
+        "@pulumi/pulumi": "^3.113.0"
+    }
+}
